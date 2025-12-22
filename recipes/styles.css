@@ -1,0 +1,85 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+
+.navigate{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.next{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    float: right;
+}
+
+.header{
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.desc{
+    background-color: yellow;
+    border: 2px solid black;
+    margin-bottom: -8px;
+
+}
+
+.ingredients, .steps, .layering{
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 5px;
+    border-left: 20px solid green;
+}
+
+ul, ol{
+    background-color: yellow;
+    border: 2px solid black;
+    border-top: none;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.top{
+    border-top: 2px solid black;
+}
+
+p{
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: -2px;
+    border-bottom: none;
+}
+
+.tip{
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 5px;
+    border-left: 20px solid green;
+}
+
+.tip h3{
+    margin-top: 5px;
+}
+
+.content-tip{
+    margin-top: -12px;
+    margin-bottom: 0px;
+    border: none;
+    margin-left: -3px;
+}
+

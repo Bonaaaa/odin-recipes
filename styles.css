@@ -1,0 +1,36 @@
+body{
+    background-color: lightsalmon;
+    margin: 5px;
+    font-family: Arial, sans-serif;
+}
+
+.card{
+    width: 600px;
+    margin: 0px auto;
+    background: lightblue;
+    padding: 5px;
+}
+
+h1{
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.lasang a, .bacon a, .pizza a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    background-color: yellow;
+    border: 2px solid black;
+    border-left: 10px solid red;
+    padding: 10px 3px;
+}
+
+.lasang, .bacon, .pizza{
+    margin-bottom: 3px;
+}
